@@ -1,0 +1,21 @@
+{
+  "name": "batch-delete-node_modules",
+  "version": "1.0.0",
+  "description": "用 node 批量删除 node_modules",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@ssh.github.com:443/PENTONCOS/batch-delete-node_modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.4.8",
+    "typescript": "^5.1.6"
+  }
+}
